@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Öne Çıkan Projeler
-- **edicTrade**: Finansal verilerin işlenmesi ve analizi üzerine kurgulanmış kapsamlı bir sistem.
+- **[edicTrade](https://github.com/edictrade)**: Finansal veri API'lerini kullanan, mikro hizmet mimarisine sahip kurumsal veri ve işlem yönetim sistemi.
 
 ---
 
